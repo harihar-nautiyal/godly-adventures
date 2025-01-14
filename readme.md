@@ -12,7 +12,7 @@ Welcome to the **official** Godly Adventures Wiki, your comprehensive guide to m
 
 ## Getting Started
 
-*   [**New Player Guide**](link-to-new-player-guide): Just starting your journey? This guide will walk you through the basics, from character creation to your first quest.
+*   [**New Player Guide**](Getting%20Started/new-player-guide.md): Just starting your journey? This guide will walk you through the basics, from character creation to your first quest.
 *   [**Game Controls**](link-to-game-controls): Master the controls and keybindings for seamless gameplay.
 *   [**FAQ**](link-to-faq): Find answers to frequently asked questions about Godly Adventures.
 *   [**Creating an Account**](link-to-account-page): Learn how to get started on your Roblox adventure.
