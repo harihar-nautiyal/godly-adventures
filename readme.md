@@ -1,12 +1,12 @@
 ---
-title: Godly Adventures Fandom Page
+title: Getting Started with Web Development in 2025
 author: John Developer
 date: 2025-01-13
-tags: ['roblox' | 'game' | 'godly-adventures']
+tags: ['web development', 'javascript', 'tutorial']
 description: A comprehensive guide to starting your web development journey in 2025
 ---
 
-# Godly Adventures
+# Getting Started with Web Development in 2025
 
 Web development has evolved significantly over the years, and 2025 brings exciting new possibilities. In this guide, we'll explore the essential tools and technologies you need to know.
 
