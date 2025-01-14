@@ -9,7 +9,9 @@ description: A comprehensive guide to starting your web development journey in 2
 
 # Godly Adventures: The Official Wiki
 
-<PinCard title="Characters" href="https://instagram.com/harihar-nautiyal" heading="Latest Characters" description="View all characters" />
+
+<PinCard title="Characters" href="https://instagram.com/harihar-nautiyal" image="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg" heading="Latest Characters" description="View all characters" />
+          
 
 Welcome to the **official** Godly Adventures Wiki, your comprehensive guide to mastering your divine powers, exploring breathtaking landscapes, and uncovering the secrets of the ancient gods! This wiki is maintained by the **\[Developer Name/Group]** development team to provide you with the most accurate and up-to-date information.
 
