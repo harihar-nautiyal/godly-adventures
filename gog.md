@@ -1,3 +1,11 @@
+---
+title: Godly Adventures Official Wiki
+author: Harihar Nautiyal
+date: 2025-01-14
+tags: ['godly', 'adventure', 'roblox']
+description: A comprehensive guide to starting your web development journey in 2025
+---
+
 # How to add a collapsible section in markdown
 ## 1. Example
 <details>
