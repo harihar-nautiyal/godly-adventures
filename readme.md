@@ -9,7 +9,16 @@ description: A comprehensive guide to starting your web development journey in 2
 
 # Godly Adventures: The Official Wiki
 
-<div className="flex flex-row  w-full flex-wrap items-center justify-center my-10">
+<div style={{
+  display: 'flex',
+  flexDirection: 'row',
+  width: '100%',
+  flexWrap: 'wrap',
+  alignItems: 'center',
+  justifyContent: 'center',
+  marginTop: '2.5rem', // my-10 is equivalent to margin-top: 2.5rem (assuming default Tailwind config)
+  marginBottom: '2.5rem', // and margin-bottom: 2.5rem
+}}>
   <PinCard title="Characters" href="https://instagram.com/harihar-nautiyal" image="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg" heading="Latest Characters" description="View all characters"  />
   <PinCard title="Characters" href="https://instagram.com/harihar-nautiyal" image="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg" heading="Latest Characters" description="View all characters" />
   <PinCard title="Characters" href="https://instagram.com/harihar-nautiyal" image="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg" heading="Latest Characters" description="View all characters"  />
