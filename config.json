@@ -1,0 +1,24 @@
+{
+  "name": "Godly Adventures",
+  "type": "fandom",
+  "main": "readme.md",
+  "description": "Godly Adventures | Roblox open world adventures game",
+  "banner": "https://cdn.discordapp.com/attachments/1311386997860073533/1324434850999963749/451E58BE-5D22-4282-9874-992E9CF93E95.jpg?ex=67874cd3&is=6785fb53&hm=5c85e2ac334db160c42361d537a66c2589353530423461603872c0c9bbb19d6d&",
+  "features": [
+    {
+      "name": "Join Server",
+      "type": "discord",
+      "url": "https://discord.gg/F33uujfmhj"
+    },
+    {
+      "name": "Youtube",
+      "type": "youtube",
+      "url": "https://www.youtube.com/@CreativeStudios-b2b"
+    },
+    {
+      "name": "Tiktok",
+      "type": "instagram",
+      "url": "https://www.tiktok.com/@godlyadventures1?_t=ZP-8soyUImOrJm&_r=1"
+    }
+  ]
+}
