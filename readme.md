@@ -4,7 +4,7 @@ author: Harihar Nautiyal
 date: 2025-01-14
 tags: ['godly', 'adventure', 'roblox']
 description: A comprehensive guide to starting your web development journey in 2025
-bannerURL: https://cdn.discordapp.com/attachments/1311386997860073533/1324434850999963749/451E58BE-5D22-4282-9874-992E9CF93E95.jpg?ex=67874cd3&is=6785fb53&hm=5c85e2ac334db160c42361d537a66c2589353530423461603872c0c9bbb19d6d&
+bannerURL: https://media.discordapp.net/attachments/1282476955111002195/1320022281853865994/Press_to_continue1x.png?ex=678862cc&is=6787114c&hm=eb7ba818a67b4fc111b824b8e952717d6912ef93385c42d0cb9da1b954596a61&=&format=webp&quality=lossless&width=833&height=468
 ---
 
 
@@ -14,31 +14,30 @@ Welcome to the **official** Godly Adventures Wiki, your comprehensive guide to m
 
   ## Getting Started
 
-*   [**New Player Guide**](Getting%20Started/new-player-guide.md): Just starting your journey? This guide will walk you through the basics, from character creation to your first quest.
-*   [**Game Controls**](link-to-game-controls): Master the controls and keybindings for seamless gameplay.
-*   [**FAQ**](link-to-faq): Find answers to frequently asked questions about Godly Adventures.
-*   [**Creating an Account**](link-to-account-page): Learn how to get started on your Roblox adventure.
+*   [**New Player Guide**](Getting%20Started/New%20Player%20Guide.md): Just starting your journey? This guide will walk you through the basics, from character creation to your first quest.
+*   [**Game Controls**](Getting%20Started/Game%20Controls.md): Master the controls and keybindings for seamless gameplay.
+*   [**FAQ**](FAQ.md): Find answers to frequently asked questions about Godly Adventures.
 
 ## Core Game Features
 
-*   [**Abilities**](link-to-abilities-page): Dive deep into the divine abilities available. Learn how to unlock, upgrade, and master each one.
-*   [**Realms**](link-to-realms-page): Explore the diverse realms of Godly Adventures, each with unique challenges, enemies, and treasures.
-*   [**Quests**](link-to-quests-page): Embark on epic quests, unravel ancient mysteries, and earn legendary rewards.
-*   [**Crafting**](link-to-crafting-page): Discover the crafting system and learn how to forge powerful weapons, armor, and consumables.
-*   [**Godly Shards**](link-to-godly-shards-page): A guide to obtaining and utilizing Godly Shards for enhancing your character.
-*   [**Clans**](link-to-clans-page): Team up with other players and dominate!
+*   [**Abilities**](Abilities.md): Dive deep into the divine abilities available. Learn how to unlock, upgrade, and master each one.
+*   [**Realms**](Realms.md): Explore the diverse realms of Godly Adventures, each with unique challenges, enemies, and treasures.
+*   [**Quests**](Quests.md): Embark on epic quests, unravel ancient mysteries, and earn legendary rewards.
+*   [**Crafting**](Crafting.md): Discover the crafting system and learn how to forge powerful weapons, armor, and consumables.
+*   [**Godly Shards**](Godly%20Shards.md): A guide to obtaining and utilizing Godly Shards for enhancing your character.
+*   [**Clans**](Getting%20Started/Clans.md): Team up with other players and dominate!
 
 
   ## Latest News & Updates
 
-*   **\[2023-10-27] The "Olympus Wrath" Update is Live!**  A new realm, Olympus, has been added, along with the powerful "Zeus's Bolt" ability. [Read the full patch notes...](link-to-update-notes)
+*   **\[2023-10-27] The "Olympus Wrath" Update is Live!**  A new realm, Olympus, has been added, along with the powerful "Zeus's Bolt" ability. [Read the full patch notes...](Patch%20Notes.md)
 *   **\[2023-10-15] Community Event: Trials of the Gods!** Participate in challenging trials to earn exclusive rewards and prove your worthiness. [Event details...](link-to-event-page)
 
 ## Community & Support
 
-*   [**Official Discord**](link-to-discord-server): Join our official Discord server to connect with other players, get support from the developers, and stay up-to-date on the latest news.
-*   [**Report a Bug**](link-to-bug-report): Help us improve Godly Adventures by reporting any bugs or issues you encounter.
-*   [**Feedback & Suggestions**](link-to-feedback-page): Share your ideas and suggestions to help shape the future of Godly Adventures.
+*   [**Official Discord**](https://discord.gg/F33uujfmhj): Join our official Discord server to connect with other players, get support from the developers, and stay up-to-date on the latest news.
+*   [**Report a Bug**](Support/Report%20a%20Bug.md): Help us improve Godly Adventures by reporting any bugs or issues you encounter.
+*   [**Feedback & Suggestions**](Support/Feedback%20and%20Suggestions.md): Share your ideas and suggestions to help shape the future of Godly Adventures.
 
 ## Game Information
 
