@@ -58,4 +58,4 @@ Crafting allows you to create powerful weapons, armor, consumables, and other us
 *   [Alchemy](Gameplay/Crafting/Alchemy)
 *   [Enchanting](Gameplay/Crafting/Enchanting)
 *   [Cooking](Gameplay/Crafting/Cooking)
-![[screenshot_1737032019525.png]]
+![[screenshot_1737032019525.png]]![[banner.png]]
