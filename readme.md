@@ -2,9 +2,11 @@
 title: Godly Adventures Official Wiki
 author: Harihar Nautiyal
 date: 2025-01-14
-tags: ['godly', 'adventure', 'roblox']
+tags:
+  - godly
+  - adventure
+  - roblox
 description: A comprehensive guide to starting your web development journey in 2025
-bannerURL: https://media.discordapp.net/attachments/1282476955111002195/1320022281853865994/Press_to_continue1x.png?ex=678862cc&is=6787114c&hm=eb7ba818a67b4fc111b824b8e952717d6912ef93385c42d0cb9da1b954596a61&=&format=webp&quality=lossless&width=833&height=468
 ---
 
 
