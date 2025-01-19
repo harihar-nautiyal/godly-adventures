@@ -7,6 +7,9 @@ tags:
   - adventure
   - roblox
 description: A comprehensive guide to starting your web development journey in 2025
+videoURL: https://www.youtube.com/watch?v=xwCEVmG3x8s
+thumbnailURL: https://img.youtube.com/vi/xwCEVmG3x8s/maxresdefault.jpg
+videoTitle: Teaser Trailer 1
 ---
 
 
