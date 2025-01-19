@@ -8,7 +8,7 @@ tags:
   - roblox
 description: wiki page for godly adventures a roblox adventure game
 videoURL: https://www.youtube.com/embed/xwCEVmG3x8s?si=fjWtN33NsWyOjFOJ
-thumbnailURL: Images/painting-01.png
+thumbnailURL: https://raw.githubusercontent.com/harihar-nautiyal/godly-adventures/refs/heads/main/Images/painting-01.png
 videoTitle: Teaser Trailer 1
 publishedTime: 2025-01-19
 modifiedTime: 2025-01-19
