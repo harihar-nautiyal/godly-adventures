@@ -1,6 +1,6 @@
 ---
 title: Godly Adventures Official Wiki
-author: Harihar Nautiyal
+author: "{\r name: \"Harihar Nautiyal\",\r    image: 'https://images.unsplash.com/photo-1612916628677-475f676a6adf'\r}"
 date: 2025-01-14
 tags:
   - godly
