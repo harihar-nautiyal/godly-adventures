@@ -10,7 +10,7 @@ tags:
   - godly
   - adventures
 description: Quests, Godly Adventures
-bannerURL: ./Images/banner.png
+bannerURL: Images/banner.png
 ---
 
 # Quests
