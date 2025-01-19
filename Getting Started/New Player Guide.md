@@ -1,12 +1,19 @@
 ---
 title: New Player Guide - Godly Adventures Wiki
 description: Guide for new players to play Godly Adventures
-author: Harihar Nautiyal
-authors: ['Harihar Nautiyal']
+author: "{\r name: \"Harihar Nautiyal\",\r    image: 'https://images.unsplash.com/photo-1612916628677-475f676a6adf'\r}"
+authors:
+  - Harihar Nautiyal
 publishedTime: 2025-01-15
 modifiedTime: 2025-01-15
-tags: ['new player', 'guide', 'godly adventures']
-bannerURL: https://media.discordapp.net/attachments/1282476955111002195/1320022282449715250/Options1x.png?ex=678862cc&is=6787114c&hm=17f337051510672aacdad3e481b97d92a52dcb27303762dd174338cad824c6f9&=&format=webp&quality=lossless&width=833&height=468
+tags:
+  - new
+  - player
+  - guide
+  - godly
+  - adventures
+bannerURL: ../Images/slash-01.png
+date: 2025-01-19
 ---
 
 # New Player Guide

@@ -1,0 +1,1 @@
+![[painting-01.png]]![[slash-01.png]]

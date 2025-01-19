@@ -6,10 +6,12 @@ tags:
   - godly
   - adventure
   - roblox
-description: A comprehensive guide to starting your web development journey in 2025
+description: wiki page for godly adventures a roblox adventure game
 videoURL: https://www.youtube.com/embed/xwCEVmG3x8s?si=fjWtN33NsWyOjFOJ
-thumbnailURL: https://img.youtube.com/vi/xwCEVmG3x8s/maxresdefault.jpg
+thumbnailURL: Images/painting-01.png
 videoTitle: Teaser Trailer 1
+publishedTime: 2025-01-19
+modifiedTime: 2025-01-19
 ---
 
 
@@ -17,10 +19,10 @@ videoTitle: Teaser Trailer 1
 
 Welcome to the **official** Godly Adventures Wiki, your comprehensive guide to mastering your divine powers, exploring breathtaking landscapes, and uncovering the secrets of the ancient gods! This wiki is maintained by the **\[Developer Name/Group]** development team to provide you with the most accurate and up-to-date information.
 
-  ## Getting Started
+##  Getting Started
 
 *   [**New Player Guide**](Getting%20Started/New%20Player%20Guide.md): Just starting your journey? This guide will walk you through the basics, from character creation to your first quest.
-*   [**Game Controls**](Getting%20Started/Game%20Controls.md): Master the controls and keybindings for seamless gameplay.
+*   [**Game Controls**](Getting%20Started/Game%20Controls.md): Master the controls and key bindings for seamless gameplay.
 *   [**FAQ**](FAQ.md): Find answers to frequently asked questions about Godly Adventures.
 
 ## Core Game Features
